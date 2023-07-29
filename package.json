@@ -1,0 +1,9 @@
+{
+  "name": "@elsevier-health/vscode-stylelint-yarn-esm-bug",
+  "packageManager": "yarn@3.6.1",
+  "devDependencies": {
+    "prettier": "^3.0.0",
+    "stylelint": "^15.10.2",
+    "stylelint-prettier": "^4.0.2"
+  }
+}
